@@ -1,0 +1,87 @@
+.rightbar{
+    margin-left: 500px;
+    flex:4;
+}
+.profileUserImg{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    position: absolute;
+    
+    /* left: 0;
+    right: 0; */
+    margin: auto;
+    top: 95px;
+    border: 3px solid white;
+}
+.profileInfo{
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    margin:0px 40px;
+    top:10px;
+    position: relative;
+}
+
+.profileInfoName{
+    font-size: 14px;
+    top:120px;
+    position: absolute;
+}
+.birthdayContainer {
+    display: flex;
+    align-items: center;
+  }
+  .Infonext{
+    font-size: 14px;
+    top:140px;
+    margin:10px -15px;
+    position: absolute;
+} 
+  .Clickable{
+    top:280px;
+    position: absolute; 
+    margin: 20px 55px;
+    /* left:95px; */
+    padding:5px 25px;
+    color:white;
+    background-color: black;
+    border-radius: 10%;
+    font-size: 14px;
+  }
+  .Followerslist{
+display:flex;
+font-size:12px;
+top:220px;
+/* left:35px; */
+margin:30px -18px;
+position: absolute;
+  }
+  .followers{
+margin:0px 0px;
+  }
+  .posts{
+margin-right: 5px;;
+  }
+  .introduction{
+margin: 0px -35px;
+width: 280px;
+position: absolute;
+top:400px;
+margin-bottom: 0px;
+font-size: 15px;
+/* padding: 0px 50px;; */
+/* width:350px !important; */
+  }
+  .birthdayContainer{
+      margin:0px 50px;
+  }
+  .stories{
+    position: absolute;
+    top:600px; 
+    margin: 0px -35px;
+    font-size: 15px;
+    font-weight: 350;
+  }
