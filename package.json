@@ -2,7 +2,7 @@
   "name": "rahee_project",
   "version": "0.1.0",
   "private": true,
-  "homepage" :"https://samridhi04-code.github.io/rahee_project",
+  "homepage" :"https://samridhi04-code.github.io/rahee_project/",
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.16.2",
